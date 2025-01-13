@@ -4,3 +4,4 @@
 - Introdução a Biblioteca Pandas - Bootcamp DIO (2022)
 - Projeto Extensionista de Big Data - Faculdade (2023)
 - Aulas de Introdução a Data Science - Ada (2024)
+- Transfer Learning - Bootcamp DIO (2025)
