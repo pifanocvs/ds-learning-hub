@@ -5,3 +5,4 @@
 - Projeto Extensionista de Big Data - Faculdade (2023)
 - Aulas de Introdução a Data Science - Ada (2024)
 - Transfer Learning - Bootcamp DIO (2025)
+- Redução de Dimensionalidade em Imagens para Redes Neurais - Bootcamp DIO (2025)
